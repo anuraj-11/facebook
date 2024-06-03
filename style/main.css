@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+ 
+}
+body{
+   background-color: #dfe3ee;
+}
+header{
+    background-color: #3b5998;
+    width: auto;
+    height: 80px;
+   position: relative;
+   color: aliceblue;
+}
+.header{
+    display: flex;
+    position: absolute;
+    top: 20px;
+    right: 100px;
+}
+
+.bg{
+    color: #0b2a6d;
+    width: 600px;
+  
+    position: absolute;
+    top: 120px;
+    left: 20px;
+    text-align: justify;
+    font-size:18px
+    
+}
+.sec2{
+    
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    right:30px;
+    top: 100px;
+    text-align: left;
+
+}
+.sec2 h1{
+    font-size: 50px;
+}
+.sec2 h3{
+    font-size:20px;
+   
+}
+
+#fname{
+    width: 190px;
+    height: 20px;
+    margin-top: 10px;
+}
+#sname{
+    width: 200px;
+    height: 20px;
+    margin-top: 10px;
+}
+#email{
+    width: 400px;
+    height: 20px;
+    margin-top: 10px;
+   
+}
+#password{
+    width: 400px;
+    height: 20px;
+    margin-top: 10px;
+
+}
+
+#birthday{
+    margin-top: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #3b5998;
+    font-size: small;
+}   
+p{
+    margin-top: 10px;
+    font-size: small;
+}
+
+.world{
+    width: 150%;
+    height: 350px;
+}
+.head{
+    text-align: right;
+   
+}
+
+.hbutton{
+    width: 60px;
+    height: 20px;
+    color: white;
+    background-color:#3b5998;
+    border-color: #3b5998;
+}
+button{
+    margin-top: 20px;
+    width: 200px;
+    height: 30px;
+    border-radius: 3px;
+  
+    border-color: green;
+    background-color: rgb(14, 123, 14);
+    color: white;
+}
+  
+
+    
+
